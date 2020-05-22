@@ -1,0 +1,72 @@
+{
+"DATA" : [
+   {
+       "CREAR_USUARIO" : [
+                {
+                   "Carnet" : 201503476,
+                   "Nombre" : "Sergio",
+                   "Apellido" : "Ramirez",
+                   "Carrera" : "Ingenieria en Sistemas",
+                   "Password" : "123456"
+                 },
+                 {
+      "Carnet": 201503476,
+      "Nombre": "Ricardo",
+      "Apellido": "Cutz",
+      "Carrera": "Ingenieria en Sistemas",
+      "Password": "123"
+    },
+    {
+      "Carnet": 201503477,
+      "Nombre": "Juanito",
+      "Apellido": "Hernandez",
+      "Carrera": "Ingenieria Civil",
+      "Password": "aaaas"
+    },
+    {
+      "Carnet": 202005878,
+      "Nombre": "Antonio",
+      "Apellido": "Hernandez",
+      "Carrera": "Ingenieria Electrica",
+      "Password": "123"
+    },
+    {
+      "Carnet": 201800464,
+      "Nombre": "Pablo",
+      "Apellido": "Argueta",
+      "Carrera": "Ingenieria SISTEMAS",
+      "Password": "3004"
+    },
+    {
+      "Carnet": 201800789,
+      "Nombre": "Valeria",
+      "Apellido": "Galvez",
+      "Carrera": "Ingenieria Electrica",
+      "Password": "123"
+    },
+    {
+      "Carnet": 201800634,
+      "Nombre": "Anthony",
+      "Apellido": "Mux",
+      "Carrera": "Ingenieria sistemas",
+      "Password": "sss"
+    },
+    {
+      "Carnet": 201800798,
+      "Nombre": "Juan",
+      "Apellido": "Diego",
+      "Carrera": "Ingenieria sistemas",
+      "Password": "asdasd"
+    },
+    {
+      "Carnet": 201800464,
+      "Nombre": "javier",
+      "Apellido": "chin",
+      "Carrera": "Ingenieria sistemas",
+      "Password": "adsas"
+    }
+           ]
+    }
+]
+
+}

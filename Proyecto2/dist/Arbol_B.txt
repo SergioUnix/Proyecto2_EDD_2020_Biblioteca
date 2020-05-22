@@ -1,0 +1,41 @@
+digraph arbolB{
+rankdir=TB;
+node [shape = record, style=filled, fontcolor = black fillcolor=darkorange1 color=dark];    
+nodo15968[ label ="15968 Indian crafts of Guatemala and El Salvador|16124 Almanaque mundial 2003|16380 Manual de tintes naturales|"]  
+nodo15905[ label ="15905 Encyclopedia international, v 10|15906 Encyclopedia international, v 11|"]  
+nodo15908[ label ="15908 Encyclopedia international, v 13|15909 Encyclopedia international, v 14|"]  
+nodo15966[ label ="15966 El grupo zoologico humano / Pierre Teilhard de Chardin ; prologo de Jean Piveteau : traduccion espaniola de Carmen Castro.|15967 El porvenir del hombre / Pierre Teilhard de Chardin ; traduccion espaniola de Carmen Castro.|"]  
+nodo15907[ label ="15907 Encyclopedia international, v 12|15965 Alcibiades, o de la naturaleza del hombre|"]  
+nodo15980[ label ="15980 Apuntes para la historia de la literatura guatemalteca : Epocas indigena y colonial|16055 Empirical research in capital markets|"]  
+nodo16060[ label ="16060 Finance|16061 Finance Center|"]  
+nodo16119[ label ="16119 Administracion moderna|16123 Breve historia del mundo|"]  
+nodo16057[ label ="16057 Foundations of financial markets and institutions|16065 Guerrilla negotiating: unconventional weapons and advanced tactics to gain a fair advantage in an unfair world|"]  
+nodo16127[ label ="16127 Segundo censo nacional de talla de escolares de primer grado de primaria de la Republica de Guatemala, 16 al 20 de julio de 2001, informe final|16129 La distribucion del producto interno bruto (PIB) en Guatemala, por region y departamento [y] La distribucion del ingreso de los hogares en Guatemala, por region y departamento|"]  
+nodo16217[ label ="16217 Analisis y disenio de sistemas de informacion|16218 Micro economia|"]  
+nodo16236[ label ="16236 Luna de cristal|16379 Archivos Latinoamericanos de Nutricion, v 33 (1-4), 1983|"]  
+nodo16216[ label ="16216 Proceso de evangelizacion de AmErica en la Capitania General del Reino de Guatemala (1524-1773)|16220 Psicologia|"]  
+nodo16381[ label ="16381 Archivos Latinoamericanos de Nutricion, v 32 (3-4), 1982|16382 Cronica de las Cortes Constituyentes de la Segunda Republica Espaniola: v 8 El articulado de la ley agraria y su aprobacion definitiva. Dos grandes debates politicos. La intentona monarquica y la triunfante emocion republicana|"]  
+nodo16457[ label ="16457 Tradicion, universidad y virtud: filosofia de la educacion superior en Alasdair MacIntyre|16458 Humanismo civico|"]  
+nodo16672[ label ="16672 Illustrated world encyclopedia|16673 Illustrated world encyclopedia, v 1|"]  
+nodo16675[ label ="16675 Illustrated world encyclopedia, v 3|16883 MesoamErica, v 7 (12), diciembre 1986|"]  
+nodo16887[ label ="16887 J.R.R. Tolkien : cuentos de hadas|16888 Yo estoy bien, tu estas bien; guia practica de analisis conciliatorio / Thomas A. Harrison ; traducido por R. Hernandez Sol|123456 Calificacion|"]  
+nodo16456[ label ="16456 Curso de teoria del conocimiento, v 3|16557 El financiamiento externo en la industria de Guatemala|16674 Illustrated world encyclopedia, v 2|16886 ¡Escucha...y veras!|"]  
+nodo15907->nodo15905
+nodo15907->nodo15908
+nodo15907->nodo15966
+nodo15968->nodo15907
+nodo16057->nodo15980
+nodo16057->nodo16060
+nodo16057->nodo16119
+nodo15968->nodo16057
+nodo16216->nodo16127
+nodo16216->nodo16217
+nodo16216->nodo16236
+nodo15968->nodo16216
+nodo16456->nodo16381
+nodo16456->nodo16457
+nodo16456->nodo16672
+nodo16456->nodo16675
+nodo16456->nodo16887
+nodo15968->nodo16456
+}

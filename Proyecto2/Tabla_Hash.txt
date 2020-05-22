@@ -1,0 +1,9 @@
+digraph Hash{
+fontcolor = white; fontsize = "35";
+style = filled; charset = latin1;
+bgcolor = white; color = lightgrey;
+node[fillcolor =  black, fontcolor = white , color = darkorange1,style = filled, shape =rectangle];
+node0[label="Sergio ariel"  ];
+{rank = same; node0 }
+
+}

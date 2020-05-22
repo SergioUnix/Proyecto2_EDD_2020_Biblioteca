@@ -1,0 +1,65 @@
+{
+	"Usuarios":[
+		{
+			"Carnet": 201503476,
+			"Nombre": "Sergio",
+			"Apellido": "Ramirez",
+			"Carrera": "Ingenieria en Sistemas",
+			"Password": "123456"
+		},
+		{
+			"Carnet": 201614154,
+			"Nombre": "Pancho",
+			"Apellido": "Pistolas",
+			"Carrera": "Agronomia",
+			"Password": "123456"
+		},
+		{
+			"Carnet": 201715256,
+			"Nombre": "Estela",
+			"Apellido": "Garcia",
+			"Carrera": "Ingenieria Industrial",
+			"Password": "123456"
+		},{
+			"Carnet": 201835142,
+			"Nombre": "Alejandro",
+			"Apellido": "Flores",
+			"Carrera": "Ingenieria en Sistemas",
+			"Password": "123456"
+		},
+		{
+			"Carnet": 201923145,
+			"Nombre": "Ariana",
+			"Apellido": "Lopez",
+			"Carrera": "Derecho",
+			"Password": "123456"
+		},{
+			"Carnet": 202078457,
+			"Nombre": "Made",
+			"Apellido": "Mendez",
+			"Carrera": "Ingenieria en Sistemas",
+			"Password": "123456"
+		},
+                {
+			"Carnet": 201020252,
+			"Nombre": "Sergio",
+			"Apellido": "Ramirez",
+			"Carrera": "Ingenieria Sistemas",
+			"Password": "123456"
+		},
+		{
+			"Carnet": 2018503474,
+			"Nombre": "Juanito",
+			"Apellido": "Hernandez",
+			"Carrera": "Ingenieria Civil",
+			"Password": "123456"
+		},
+		{
+			"Carnet": 202005878,
+			"Nombre": "Cesar",
+			"Apellido": "Lopez",
+			"Carrera": "Ingenieria Electrica",
+			"Password": "123456"
+		}
+	]
+}

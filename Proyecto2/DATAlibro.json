@@ -1,0 +1,20 @@
+{
+"DATA" : [
+   {
+       "CREAR_LIBRO" : [
+                {
+                   "ISBN" : 10761,
+                   "Año" : 1999,
+                   "Idioma" : "Aleman",
+                   "Titulo" : "Harry Potter and the chamber of secrets, v 2",
+                   "Editorial" : "20th Century Fox",
+                   "Autor" : "ESCOBAR WOLF, WIELAND JOSE",
+                   "Edicion" : 1,
+                   "Categoria" : "Sagas"
+                 }
+           ]
+    },
+  {},
+  {}
+  ]
+}
